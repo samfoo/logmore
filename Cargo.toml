@@ -1,0 +1,7 @@
+[package]
+name = "lmore"
+version = "0.1.0"
+authors = ["Sam Gibson <sam@ifdown.net>"]
+
+[dependencies]
+memchr = "0.1"
